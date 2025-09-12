@@ -1,6 +1,5 @@
 # Fun 🌼
-### Coding is my happy escape... until the Complilor says no :) !
-
+### Coding is my happy escape... until the Complilor says no :) 
 ## ✦Heart 💖
 ![heart](https://github.com/user-attachments/assets/c59df176-8730-41c2-adaf-bfcb47bb6ced)
 ##
