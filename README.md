@@ -8,7 +8,8 @@
 ##
 
 ## ✦Rainbow Rings 🌈
-![rainbow_rings](https://github.com/user-attachments/assets/e1474c6b-8bb9-47fc-903a-ea261ec6834f)
+<img src="https://github.com/user-attachments/assets/e1474c6b-8bb9-47fc-903a-ea261ec6834f" alt="heart" style="width:50%;" />
+
 ##
 
 ## ✦Password Generator 
